@@ -1,7 +1,8 @@
 '''
 StopSignDebug
-12/13/2022
-Python I
+Pawelski
+10/1/2023
+Introduction to Computer Science
 '''
 
 import turtle
